@@ -20,5 +20,6 @@ public class GameTest {
 		}
 
 		System.out.println("Game Over.");
+		scanner.close();
 	}
 }
